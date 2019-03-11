@@ -29,7 +29,7 @@ CONF='rea.conf'
 # Port.
 DEFAULT_PORT=36390
 # Explorer URL.
-EXPLORER_URL='http://explorer.reaproject.io/'
+EXPLORER_URL='https://rea.coinexplorer.xyz/'
 # Rate limit explorer.
 EXPLORER_SLEEP=1
 # Amount of Collateral needed.
